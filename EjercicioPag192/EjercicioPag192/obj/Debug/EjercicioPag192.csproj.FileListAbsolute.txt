@@ -1,0 +1,6 @@
+C:\Users\Roberto\Desktop\EjercicioPag192\EjercicioPag192\bin\Debug\EjercicioPag192.exe.config
+C:\Users\Roberto\Desktop\EjercicioPag192\EjercicioPag192\bin\Debug\EjercicioPag192.exe
+C:\Users\Roberto\Desktop\EjercicioPag192\EjercicioPag192\bin\Debug\EjercicioPag192.pdb
+C:\Users\Roberto\Desktop\EjercicioPag192\EjercicioPag192\obj\Debug\EjercicioPag192.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Desktop\EjercicioPag192\EjercicioPag192\obj\Debug\EjercicioPag192.exe
+C:\Users\Roberto\Desktop\EjercicioPag192\EjercicioPag192\obj\Debug\EjercicioPag192.pdb
